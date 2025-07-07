@@ -1,0 +1,2 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+data/models/models--ProsusAI--finbert/* filter=lfs diff=lfs merge=lfs -text
