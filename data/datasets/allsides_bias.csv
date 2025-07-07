@@ -1,0 +1,36 @@
+name,url,bias,confidence,rating,agree_disagree,community_rating
+CNN,cnn.com,lean left,high,4.2,73% agree,3.8
+Fox News,foxnews.com,lean right,high,4.1,71% agree,4.3
+BBC,bbc.com,center,medium,3.9,65% agree,3.7
+Reuters,reuters.com,center,high,4.5,82% agree,4.4
+Associated Press,apnews.com,center,high,4.6,85% agree,4.5
+New York Times,nytimes.com,lean left,high,4.0,69% agree,3.9
+Wall Street Journal,wsj.com,lean right,high,4.2,74% agree,4.1
+Washington Post,washingtonpost.com,lean left,high,3.8,67% agree,3.7
+The Guardian,theguardian.com,left,medium,3.5,62% agree,3.4
+USA Today,usatoday.com,center,medium,3.7,64% agree,3.6
+NPR,npr.org,lean left,high,4.1,71% agree,3.9
+MSNBC,msnbc.com,left,high,3.4,59% agree,3.2
+CBS News,cbsnews.com,lean left,medium,3.8,66% agree,3.7
+ABC News,abcnews.go.com,lean left,medium,3.7,65% agree,3.6
+NBC News,nbcnews.com,lean left,medium,3.6,63% agree,3.5
+CoinDesk,coindesk.com,center,low,3.5,58% agree,3.4
+Cointelegraph,cointelegraph.com,center,low,3.3,55% agree,3.2
+TechCrunch,techcrunch.com,lean left,low,3.4,57% agree,3.3
+Wired,wired.com,lean left,medium,3.6,61% agree,3.5
+The Verge,theverge.com,lean left,low,3.4,56% agree,3.3
+Bloomberg,bloomberg.com,center,high,4.3,76% agree,4.2
+Financial Times,ft.com,center,high,4.4,78% agree,4.3
+MarketWatch,marketwatch.com,center,medium,3.8,65% agree,3.7
+CNBC,cnbc.com,center,medium,3.9,67% agree,3.8
+Forbes,forbes.com,lean right,medium,3.7,64% agree,3.6
+Business Insider,businessinsider.com,lean left,medium,3.5,60% agree,3.4
+Politico,politico.com,lean left,high,3.9,68% agree,3.8
+The Hill,thehill.com,center,medium,3.8,66% agree,3.7
+TIME,time.com,lean left,medium,3.6,62% agree,3.5
+Newsweek,newsweek.com,center,medium,3.5,59% agree,3.4
+Breitbart,breitbart.com,right,high,3.2,54% agree,3.0
+Daily Wire,dailywire.com,right,medium,3.1,53% agree,2.9
+HuffPost,huffpost.com,left,high,3.3,56% agree,3.1
+Vox,vox.com,left,medium,3.4,57% agree,3.2
+Salon,salon.com,left,medium,3.1,52% agree,2.9 

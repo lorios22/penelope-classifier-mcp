@@ -1,0 +1,31 @@
+name,url,bias,factual_reporting,notes,country,media_type
+CNN,cnn.com,left-center,mostly factual,Cable news network,USA,TV/Online
+Fox News,foxnews.com,right,mixed,Conservative cable news,USA,TV/Online
+BBC,bbc.com,least biased,very high,British public broadcaster,UK,TV/Online
+Reuters,reuters.com,least biased,very high,International news agency,UK,Wire Service
+Associated Press,apnews.com,least biased,very high,American news agency,USA,Wire Service
+New York Times,nytimes.com,left-center,high,Major newspaper,USA,Newspaper
+Wall Street Journal,wsj.com,right-center,high,Business newspaper,USA,Newspaper
+Washington Post,washingtonpost.com,left-center,high,Major newspaper,USA,Newspaper
+The Guardian,theguardian.com,left-center,mostly factual,British newspaper,UK,Newspaper
+USA Today,usatoday.com,center,mostly factual,National newspaper,USA,Newspaper
+NPR,npr.org,left-center,very high,Public radio,USA,Radio/Online
+MSNBC,msnbc.com,left,mixed,Cable news network,USA,TV/Online
+CBS News,cbsnews.com,left-center,high,Television network,USA,TV/Online
+ABC News,abcnews.go.com,left-center,high,Television network,USA,TV/Online
+NBC News,nbcnews.com,left-center,high,Television network,USA,TV/Online
+CoinDesk,coindesk.com,center,mostly factual,Cryptocurrency news,USA,Online
+Cointelegraph,cointelegraph.com,center,mostly factual,Cryptocurrency news,Global,Online
+TechCrunch,techcrunch.com,left-center,mostly factual,Technology news,USA,Online
+Wired,wired.com,left-center,high,Technology magazine,USA,Magazine
+The Verge,theverge.com,left-center,mostly factual,Technology news,USA,Online
+Bloomberg,bloomberg.com,center,high,Financial news,USA,Wire Service
+Financial Times,ft.com,center,very high,Financial newspaper,UK,Newspaper
+MarketWatch,marketwatch.com,center,mostly factual,Financial news,USA,Online
+CNBC,cnbc.com,center,mostly factual,Business news,USA,TV/Online
+Forbes,forbes.com,right-center,mostly factual,Business magazine,USA,Magazine
+Business Insider,businessinsider.com,left-center,mostly factual,Business news,USA,Online
+Politico,politico.com,left-center,high,Political news,USA,Online
+The Hill,thehill.com,center,mostly factual,Political news,USA,Online
+TIME,time.com,left-center,high,News magazine,USA,Magazine
+Newsweek,newsweek.com,center,mostly factual,News magazine,USA,Magazine 

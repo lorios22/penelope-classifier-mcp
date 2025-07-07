@@ -1,0 +1,19 @@
+{
+  "execution_time": "2025-07-07T01:36:26.487413",
+  "system": "Penelope News Classification System (Integrated)",
+  "total_articles": 40,
+  "financial_articles": 40,
+  "crypto_articles": 18,
+  "high_confidence_articles": 0,
+  "average_confidence": 0.0,
+  "files_generated": {
+    "csv": "data/results/financial_news_classifier_20250707_013626.csv",
+    "summary": "data/results/financial_news_classifier_summary_20250707_013626.json"
+  },
+  "statistics": {
+    "financial_percentage": 100.0,
+    "crypto_percentage": 45.0,
+    "high_confidence_percentage": 0.0,
+    "processing_success": true
+  }
+}
